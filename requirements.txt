@@ -1,0 +1,11 @@
+python-dotenv==1.0.0
+openai==0.27.8
+bs4==0.0.1
+openai-whisper @ git+https://github.com/openai/whisper.git@e8622f9afc4eba139bf796c210f5c01081000472
+pytube==15.0.0
+pytest==7.4.0
+pandas==2.0.3
+langchain==0.0.269
+pdfminer==20191125
+azure-search-documents==11.4.0b6
+azure-identity
